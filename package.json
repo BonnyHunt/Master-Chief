@@ -1,0 +1,22 @@
+{
+  "name": "master-chief",
+  "version": "1.0.0",
+  "description": "This is a landing page about one of the best fictional characters ever created",
+  "main": "index.js",
+  "scripts": {
+    "gh=page": "gh-page -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonnyHunt/Master-Chief.git"
+  },
+  "keywords": [
+    "JavaScrip"
+  ],
+  "author": "figueraramon223@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BonnyHunt/Master-Chief/issues"
+  },
+  "homepage": "https://github.com/BonnyHunt/Master-Chief#readme"
+}
